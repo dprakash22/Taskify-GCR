@@ -1,0 +1,60 @@
+body {
+    /* background-image: url('./back-login.jpg');
+    background-repeat: round;
+    object-fit: fill;
+    width: 100%;
+    height: 100%; */
+    margin: 0;
+}
+
+.loginouter{
+    position: relative;
+    margin: 50px auto;
+    margin-top: 90px;
+    box-shadow: 0 0 10px;
+    width: 650px;
+    height: 400px;
+    /* background-color: azure; */
+}
+
+.holder{
+    position: absolute;
+    margin: 80px;
+    margin-left: 120px;
+    
+}
+
+.input{
+    width: 200px;
+    padding: 8px;
+    margin-bottom: 20px;
+    border:0;
+    border-bottom: 2px solid;
+}
+
+.btn{
+    margin-top: 10px;
+    width: 70px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.full img{
+    position: absolute;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.c1{
+    width: 100px;
+    height: 100px;
+    box-shadow: 20px 20px 15px 10px blue;
+    border-radius: 50%;
+    margin: 50px auto;
+    margin-left: 100px;
+}
+
+

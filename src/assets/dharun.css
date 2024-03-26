@@ -1,0 +1,12 @@
+.inp-table{
+    align-items:center ;
+    justify-content:center ;
+}
+
+.inp-table td{
+  padding:2%;
+}
+
+a{
+  text-decoration: none;
+}
