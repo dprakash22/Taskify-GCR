@@ -34,9 +34,9 @@ const Body = () => {
             <div className="body-main">
 
                 <div className="body-first"> 
-                    <div className="body-name">
+                    {/* <div className="body-name">
                         Hey Guhan you have 5 task remaining
-                    </div>
+                    </div> */}
                     <div style={{"display":"flex","margin-right":"50px"}}>
                         {(join==1)?<Join fun={setCode}/>:<></>}
                         <button onClick={()=>{

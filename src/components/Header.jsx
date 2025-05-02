@@ -12,7 +12,7 @@ const Header = () => {
     }
     useEffect(()=>{fet()},[])
     return (
-        <>
+        <> 
                 <div className="first-header"> 
                 
                     <div className="first-1"> 
